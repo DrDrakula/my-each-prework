@@ -15,5 +15,5 @@ end
 array = ["Hi","my","name","is Nemanja"]
 
 my_each(array) do |word|
-
+  word
 end
